@@ -13,5 +13,6 @@ public class Program1a {
         Double areaOfRectangle = height * width;
 
         System.out.println("The Area of Rectangle is : "+areaOfRectangle);
+        scanner.close();
     }
 }
