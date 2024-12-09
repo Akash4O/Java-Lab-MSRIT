@@ -15,3 +15,7 @@ Java Lab Programs from 5th sem CSE(Cyber Security) Syllabus
             a.	Addition of two complex numbers
             b.	Subtraction of two complex numbers
             c.	Compare two complex numbers.
+
+## Program 4:  Inheritance  program: 	
+
+            Write a java program to define a base class called person which stores information about a person such as name, age, gender. Derive two new classes employee and student and extend the base class methods in derived class to read and display the details that are specific to student and employee. Display the details of at least five students and five employees.
